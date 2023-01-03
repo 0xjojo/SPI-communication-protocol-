@@ -18,6 +18,7 @@
 #define DIO_U8_PIN5    5 
 #define DIO_U8_PIN6    6 
 #define DIO_U8_PIN7    7 
+
 #define DIO_U8_PIN8    8 
 #define DIO_U8_PIN9    9 
 #define DIO_U8_PIN10   10
@@ -26,6 +27,7 @@
 #define DIO_U8_PIN13   13
 #define DIO_U8_PIN14   14
 #define DIO_U8_PIN15   15
+
 #define DIO_U8_PIN16   16
 #define DIO_U8_PIN17   17
 #define DIO_U8_PIN18   18
@@ -34,6 +36,7 @@
 #define DIO_U8_PIN21   21
 #define DIO_U8_PIN22   22
 #define DIO_U8_PIN23   23
+
 #define DIO_U8_PIN24   24
 #define DIO_U8_PIN25   25
 #define DIO_U8_PIN26   26
